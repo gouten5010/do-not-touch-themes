@@ -38,6 +38,7 @@ add_action( 'admin_menu', 'remove_theme_select_menus' );
 function remove_role_options( $caps, $cap ) {
 	$capabilities = array(
 		'switch_themes',
+		'install_themes' //DISALLOW_FILE_MODSを使用する場合は削除してもいい
 	);
 	if (in_array($cap, $capabilities)) {
 		$caps[] = 'do_not_allow';
