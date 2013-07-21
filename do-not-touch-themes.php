@@ -15,6 +15,9 @@ function non_edit_theme_and_plugin() {
 	if ( !defined ( 'DISALLOW_FILE_EDIT' ) ) {
 		define( 'DISALLOW_FILE_EDIT', true );
 	}
+	//if ( !defined ( 'DISALLOW_FILE_MODS' ) ) {
+	//	define('DISALLOW_FILE_MODS',true);
+	//}
 }
 add_action('plugins_loaded', 'non_edit_theme_and_plugin');
 
