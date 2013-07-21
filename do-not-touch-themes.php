@@ -42,7 +42,7 @@ add_action( 'admin_menu', 'remove_theme_select_menus' );
 //		'install_themes'
 //	);
 //	foreach ( $caps as $cap ){
-//		$roles->add_cap( $cap );
+//		$roles->remove_cap( $cap );
 //	}
 //}
 //add_action( 'admin_init', 'remove_role_options' );
