@@ -34,3 +34,15 @@ function remove_theme_select_menus () {
 	remove_submenu_page( 'themes.php', 'themes.php' );
 }
 add_action( 'admin_menu', 'remove_theme_select_menus' );
+
+//function remove_role_options(){
+//	$roles = get_role('administrator');
+//	$caps = array(
+//		'switch_themes',
+//		'install_themes'
+//	);
+//	foreach ( $caps as $cap ){
+//		$roles->add_cap( $cap );
+//	}
+//}
+//add_action( 'admin_init', 'remove_role_options' );
