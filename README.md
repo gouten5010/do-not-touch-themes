@@ -1,13 +1,13 @@
 Don't Touch Themes!!
 ====================
 
-Original Name: do-not-touch-themes
--- WordBench 0saka vol.19 (2013.07.20) --
+Original Name: do-not-touch-themes  
+-- in WordBench 0saka vol.19 (2013.07.20) --
 
 **「Don't touch all themes!!」**
 
 テーマとプラグインを編集させない、アップデートさせない、削除させないプラグイン。  
-テーマにいたっては選択変更もさせません！
+テーマにいたっては選択変更もさせません。
 
 ---------------------------------------
 
@@ -39,3 +39,5 @@ Original Name: do-not-touch-themes
 
 あといろいろ。  
 予定は未定。
+
+納品前に有効化したりするのに使える…かも。
