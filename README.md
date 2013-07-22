@@ -2,6 +2,7 @@ Don't Touch Themes!!
 ====================
 
 Original Name: do-not-touch-themes
+-- WordBench 0saka vol.19 (2013.07.20) --
 
 **「Don't touch all themes!!」**
 
