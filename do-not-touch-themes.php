@@ -12,15 +12,14 @@ License URI:
 
 //プラグインとテーマのインストール・更新を無効化
 function non_edit_theme_and_plugin() {
-
-	if ( !defined ( 'DISALLOW_FILE_MODS' ) ) {
+	if (!defined('DISALLOW_FILE_MODS')) {
 		define('DISALLOW_FILE_MODS',true);
 	}
 }
 add_action('plugins_loaded', 'non_edit_theme_and_plugin');
 
 //テーマ選択の無効化
-function remove_role_options( $caps, $cap ) {
+function remove_role_options($caps, $cap) {
 	$capabilities = array(
 		'switch_themes'
 	);
