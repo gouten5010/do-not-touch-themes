@@ -4,7 +4,8 @@ Don't Touch Themes!!
 Original Name: do-not-touch-themes  
 -- in WordBench 0saka vol.19 (2013.07.20) --
 
-**「Hey! Don't touch all installed themes and plugin in your WordPress site!! Yuck!!」**
+**「Hey, don't touch all installed themes and plugin in your WordPress site!!」**  
+**「Yuck!!」**
 
     テーマとプラグインを編集させない、アップデートさせない、削除させないプラグイン。  
     テーマにいたっては選択変更もさせません。
