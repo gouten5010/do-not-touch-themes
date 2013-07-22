@@ -6,8 +6,8 @@ Description: We do not want to make a theme chosen, and do not want to let edit 
 Version:0.1.2
 Author:GOUTEN
 Author URI: http://5010works.com/
-License: GPL v2
-License URI:
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
 //プラグインとテーマのインストール・更新を無効化
