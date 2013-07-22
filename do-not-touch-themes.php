@@ -3,7 +3,7 @@
 Plugin Name: Don't Touch Themes
 Plugin URI: https://github.com/gouten5010/do-not-touch-themes
 Description: We do not want to make a theme chosen, and do not want to let edit of WordPress plug-in and WordPress theme. After all the setup and edits finish, please validate this plug-in.
-Version:0.1.1
+Version:0.1.2
 Author:GOUTEN
 Author URI: http://5010works.com/
 License: GPL v2
