@@ -1,6 +1,15 @@
 Don't Touch Themes!!
 ====================
 
+#### Restricted Role Switcher ####
+[https://github.com/gouten5010/restricted-role-switcher] (https://github.com/gouten5010/restricted-role-switcher)
+
+2013.07.22 プラグインの機能を煮詰めて新しいリポジトリにて公開しています。
+
+---------------------------------------
+
+### もともとのプラグインの説明 ###
+
 Original Name: do-not-touch-themes  
 -- in WordBench 0saka vol.19 (2013.07.20) --
 
